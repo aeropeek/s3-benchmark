@@ -1,6 +1,6 @@
 # Introduction
 
-## This is a fork version of [wasabi-tech/se-benchmark](https://github.com/wasabi-tech/s3-benchmark), to make it support minio and ceph.
+## This is a fork version of [chinglinwen/s3-benchmark](https://github.com/chinglinwen/s3-benchmark), to make it skip verify insecure certs.
 
 Example output:
 
