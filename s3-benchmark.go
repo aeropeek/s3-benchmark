@@ -455,6 +455,7 @@ func main() {
 		// DisableParamValidation:  aws.Bool(true),
 		DisableComputeChecksums: aws.Bool(true),
 		S3ForcePathStyle:        aws.Bool(true),
+		HTTPClient:             httpClient,
 	}
 
 	// Echo the parameters
